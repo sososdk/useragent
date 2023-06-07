@@ -1,14 +1,10 @@
 name: useragent
-description: A starting point for Dart libraries or applications.
+description: UserAgent is a dart library that parses HTTP User Agents.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/sososdk/useragent
 
 environment:
-  sdk: ^3.0.3
-
-# Add regular dependencies here.
-dependencies:
-  # path: ^1.8.0
+  sdk: ">=3.0.3 <4.0.0"
 
 dev_dependencies:
   lints: ^2.1.1
